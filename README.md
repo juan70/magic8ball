@@ -2,9 +2,9 @@ My very cheap version of the Magic 8-Ball
 =========================================
 
 Table of Contents
-[Introduction](#introduction)
-[Building and running](#building-and-running)
-[Example session](#example-session)
+ - [Introduction](#introduction)
+ - [Building and running](#building-and-running)
+ - [Example session](#example-session)
 
 
 ## Introduction
