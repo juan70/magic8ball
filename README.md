@@ -76,5 +76,8 @@ Please ask your question: quit
 ```
 Okay... I will update this README file around December 2016 to add the relevant information...
 
+**Edit 26 December 2016** (I tend to use British English date format): Hey, **I have a job!!!!** My program is not that bad after all. But there are probably some adjustments to be made.
+Actually, they told me that I was hired in October, I started working on November 21st (a training and the like), and completed my first real task during the last two days of November.
+
 ---
 
